@@ -15,10 +15,10 @@ import BolgsPage from './pages/BolgsPage';
 function App() {
   return (
     <div className="App">
-      {/* <HomePage></HomePage>
+       <HomePage></HomePage>
       <ContactUsPage></ContactUsPage>
         <CareersPage></CareersPage>
-        <ApplyPage></ApplyPage> */}
+        <ApplyPage></ApplyPage> 
         {/* <OurSkills></OurSkills> */}
         {/* <Welcome></Welcome> */}
         {/* <Testimonials></Testimonials> */}
